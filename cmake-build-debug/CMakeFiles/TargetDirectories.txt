@@ -1,0 +1,3 @@
+/Users/abdelrhmankhaled/Documents/oopproject/cmake-build-debug/CMakeFiles/oopproject.dir
+/Users/abdelrhmankhaled/Documents/oopproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/abdelrhmankhaled/Documents/oopproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
