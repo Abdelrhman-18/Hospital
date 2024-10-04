@@ -13,12 +13,12 @@ public:
     Appointment array_of_appointments[1000];
     int patient_count = 0, doctor_count = 0, app_count = 0;
 
-    void Add_Patient(Patient p) {
-        array_of_patients[patient_count++] = p;
+    void Add_Patient(Patient P) {
+        array_of_patients[patient_count++] = P;
     }
 
-    void Add_Doctor(Doctor d) {
-        array_of_doctors[doctor_count++] = d;
+    void Add_Doctor(Doctor D) {
+        array_of_doctors[doctor_count++] = D;
     }
 
     void addDoctor(const Doctor &d) {
